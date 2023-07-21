@@ -1,0 +1,2371 @@
+{
+    "data": [
+        {
+            "id": "645f0a7fac90f2728d8ddb5e",
+            "name": "Affliction",
+            "slug": "affliction",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/affliction.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb5f",
+            "name": "Alpha Aster, Giver of All",
+            "slug": "alpha-aster-giver-of-all",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/alpha-aster-giver-of-all.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7867",
+                "name": "Progenitor",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Progenitors.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef22",
+                "name": "Alpha Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb60",
+            "name": "Amazon Rainforest",
+            "slug": "amazon-rainforest",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/amazon-rainforest.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0e",
+                "name": "Clashground"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb61",
+            "name": "Ancient Protection",
+            "slug": "ancient-protection",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/ancient-protection.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb62",
+            "name": "Antarctica",
+            "slug": "antarctica",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/antarctica.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0e",
+                "name": "Clashground"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb63",
+            "name": "Apex, Vortex Slinger",
+            "slug": "apex-vortex-slinger",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/apex-vortex-slinger.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb64",
+            "name": "Avenging Guy, Trying to Help",
+            "slug": "avenging-guy-trying-to-help",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/avenging-guy-trying-to-help.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7868",
+                "name": "Rogue",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb65",
+            "name": "Better Luck Next Time!",
+            "slug": "better-luck-next-time",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/better-luck-next-time.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb66",
+            "name": "Cao Ling, Bane of the Discarded",
+            "slug": "cao-ling-bane-of-the-discarded",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/cao-ling-bane-of-the-discarded.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7868",
+                "name": "Rogue",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb67",
+            "name": "Captain Maxine Riggins",
+            "slug": "captain-maxine-riggins",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/captain-maxine-riggins.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb68",
+            "name": "Clairvoyance",
+            "slug": "clairvoyance",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/clairvoyance.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb69",
+            "name": "Clarify",
+            "slug": "clarify",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/clarify.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1d",
+                "name": "Legendary"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb6a",
+            "name": "Clarity's 1911",
+            "slug": "claritys-1911",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/claritys-1911.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554d",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb6b",
+            "name": "Clarity's Dagger",
+            "slug": "claritys-dagger",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/claritys-dagger.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554d",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb6c",
+            "name": "Clarity, Ageless Defender",
+            "slug": "clarity-ageless-defender",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/clarity-ageless-defender.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e10",
+                "name": "Contender"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7868",
+                "name": "Rogue",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {"id":"645f0a7fac90f2728d8ddb7c","name":"Flare, Solar Force","slug":"flare-solar-force","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/flare-solar-force.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7864","name":"Alpha","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"},"color":{"_id":"645a825d7538c9022b8f7860","name":"Red","hexColor":"#ef4c2e","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef21","name":"Uncommon"}},{"id":"645f0a7fac90f2728d8ddb7d","name":"Garfield Park Lagoon","slug":"garfield-park-lagoon","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/garfield-park-lagoon.webp","cardType":{"_id":"645a812119cb894b1aac5e0e","name":"Clashground"},"affiliation":{"_id":"","name":"","affImageUrl":""},"color":{"_id":"645a825d7538c9022b8f7863","name":"Blue","hexColor":"#4383c3","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef1b","name":"Common"}},{"id":"645f0a7fac90f2728d8ddb7e","name":"Gotcha!","slug":"gotcha","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/gotcha.webp","cardType":{"_id":"645a812119cb894b1aac5e0d","name":"Accessory"},"affiliation":{"_id":"","name":"","affImageUrl":""},"color":{"_id":"645a825d7538c9022b8f7861","name":"Green","hexColor":"#44af6b","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"},"cardSubtype":"645a81b67833a875376e554b","rarity":{"_id":"64a85f53d6910d42b4c2ef21","name":"Uncommon"}},{"id":"645f0a7fac90f2728d8ddb7f","name":"Grant Park, Chicago","slug":"grant-park-chicago","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/grant-park-chicago.webp","cardType":{"_id":"645a812119cb894b1aac5e0e","name":"Clashground"},"affiliation":{"_id":"","name":"","affImageUrl":""},"color":{"_id":"645a825d7538c9022b8f7862","name":"White","hexColor":"#fefefd","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef1f","name":"Rare"}},{"id":"645f0a7fac90f2728d8ddb83","name":"HERE COMES THE BOOM!","slug":"here-comes-the-boom","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/here-comes-the-boom.webp","cardType":{"_id":"645a812119cb894b1aac5e11","name":"Action"},"affiliation":{"_id":"","name":"","affImageUrl":""},"color":{"_id":"645a825d7538c9022b8f7860","name":"Red","hexColor":"#ef4c2e","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"},"cardSubtype":"645a81b67833a875376e554a","rarity":{"_id":"64a85f53d6910d42b4c2ef1c","name":"Epic"}},{"id":"645f0a7fac90f2728d8ddb80","name":"Haven, Bountiful Collector","slug":"haven-bountiful-collector","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/haven-bountiful-collector-2.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7868","name":"Rogue","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"},"color":{"_id":"645a825d7538c9022b8f7863","name":"Blue","hexColor":"#4383c3","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef1c","name":"Epic"}},{"id":"645f0a7fac90f2728d8ddb81","name":"Haven, Hiding in Plain Sight","slug":"haven-hiding-in-plain-sight","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/haven-hiding-in-plain-sight.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7868","name":"Rogue","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"},"color":{"_id":"645a825d7538c9022b8f7862","name":"White","hexColor":"#fefefd","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef21","name":"Uncommon"}},{"id":"645f0a7fac90f2728d8ddb82","name":"Haven, the Resourceful Helper","slug":"haven-the-resourceful-helper","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/haven-the-resourceful-helper.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7868","name":"Rogue","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"},"color":{"_id":"645a825d7538c9022b8f7862","name":"White","hexColor":"#fefefd","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef21","name":"Uncommon"}},{"id":"645f0a7fac90f2728d8ddb84","name":"Incoming Support","slug":"incoming-support","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/incoming-support.webp","cardType":{"_id":"645a812119cb894b1aac5e11","name":"Action"},"affiliation":{"_id":"","name":"","affImageUrl":""},"color":{"_id":"645a825d7538c9022b8f785f","name":"Black","hexColor":"#676767","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"},"cardSubtype":"645a81b67833a875376e554e","rarity":{"_id":"64a85f53d6910d42b4c2ef1b","name":"Common"}},{"id":"645f0a7fac90f2728d8ddb85","name":"Is This Who You Are?","slug":"is-this-who-you-are","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/is-this-who-you-are.webp","cardType":{"_id":"645a812119cb894b1aac5e0d","name":"Accessory"},"affiliation":{"_id":"","name":"","affImageUrl":""},"color":{"_id":"645a825d7538c9022b8f7862","name":"White","hexColor":"#fefefd","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"},"cardSubtype":"645a81b67833a875376e554b","rarity":{"_id":"64a85f53d6910d42b4c2ef21","name":"Uncommon"}},{"id":"645f0a7fac90f2728d8ddb86","name":"Khagan, the Dragon","slug":"khagan-the-dragon","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/khagan-the-dragon.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7864","name":"Alpha","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"},"color":{"_id":"645a825d7538c9022b8f7861","name":"Green","hexColor":"#44af6b","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef1c","name":"Epic"}},{"id":"645f0a7fac90f2728d8ddb87","name":"Kilimanjaro, Ascendant Champion","slug":"kilimanjaro-ascendant-champion","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/kilimanjaro-ascendant-champion.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7864","name":"Alpha","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"},"color":{"_id":"645a825d7538c9022b8f785f","name":"Black","hexColor":"#676767","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef1c","name":"Epic"}},{"id":"645f0a7fac90f2728d8ddb8a","name":"LINN, Adaptable Fighter","slug":"linn-adaptable-fighter","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/linn-adaptable-fighter.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7868","name":"Rogue","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"},"color":{"_id":"645a825d7538c9022b8f7862","name":"White","hexColor":"#fefefd","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef21","name":"Uncommon"}},{"id":"645f0a7fac90f2728d8ddb8b","name":"LINN, the Nanite Warrior","slug":"linn-the-nanite-warrior","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/linn-the-nanite-warrior.webp","cardType":{"_id":"645a812119cb894b1aac5e0f","name":"Clash"},"affiliation":{"_id":"645a893b7538c9022b8f7868","name":"Rogue","affImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"},"color":{"_id":"645a825d7538c9022b8f7862","name":"White","hexColor":"#fefefd","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"},"cardSubtype":null,"rarity":{"_id":"64a85f53d6910d42b4c2ef1f","name":"Rare"}},{"id":"645f0a7fac90f2728d8ddb88","name":"Lefty's Last Stand","slug":"leftys-last-stand","imageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/leftys-last-stand.webp","cardType":{"_id":"645a812119cb894b1aac5e11","name":"Action"},"affiliation":{"_id":"","name":"","affImageUrl":""},"color":{"_id":"645a825d7538c9022b8f7863","name":"Blue","hexColor":"#4383c3","specifiedCostImageUrl":"https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"},"cardSubtype":"645a81b67833a875376e554c","rarity":{"_id":"64a85f53d6910d42b4c2ef21","name":"Uncommon"}},
+        {
+            "id": "645f0a7fac90f2728d8ddb89",
+            "name": "Lefty, on the Way",
+            "slug": "lefty-on-the-way",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/lefty-on-the-way.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb8c",
+            "name": "Machina",
+            "slug": "machina",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/machina.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb8d",
+            "name": "Machina, Unstoppable Force",
+            "slug": "machina-unstoppable-force",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/machina-unstoppable-force.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1c",
+                "name": "Epic"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb8e",
+            "name": "Magnate's Gamma Spear",
+            "slug": "magnates-gamma-spear",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnates-gamma-spear.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb8f",
+            "name": "Magnate's Plan",
+            "slug": "magnates-plan",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnates-plan.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb90",
+            "name": "Magnate's Trap",
+            "slug": "magnates-trap",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnates-trap.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb91",
+            "name": "Magnate, Awakened",
+            "slug": "magnate-awakened",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnate-awakened.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e10",
+                "name": "Contender"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef20",
+                "name": "Starter Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb92",
+            "name": "Magnate, Charging Up",
+            "slug": "magnate-charging-up",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnate-charging-up.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb93",
+            "name": "Magnate, Cunning Planner",
+            "slug": "magnate-cunning-planner",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnate-cunning-planner.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb94",
+            "name": "Magnate, Ready to Fight",
+            "slug": "magnate-ready-to-fight",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnate-ready-to-fight.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb97",
+            "name": "Magnate, Unwavering might",
+            "slug": "magnate-unwavering-might",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnate-unwavering-might.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb95",
+            "name": "Magnate, the Tyrant",
+            "slug": "magnate-the-tyrant",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnate-the-tyrant.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1e",
+                "name": "Promo"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb96",
+            "name": "Magnate, the Undisputed",
+            "slug": "magnate-the-undisputed",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/magnate-the-undisputed.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1c",
+                "name": "Epic"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb98",
+            "name": "Mean-Streak, Blink of an Eye",
+            "slug": "mean-streak-blink-of-an-eye",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/mean-streak-blink-of-an-eye.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1c",
+                "name": "Epic"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb99",
+            "name": "Mean-Streak, Finishing Blow",
+            "slug": "mean-streak-finishing-blow",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/mean-streak-finishing-blow.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1a",
+                "name": "AxO"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb9a",
+            "name": "Mean-Streak, Intercepting",
+            "slug": "mean-streak-intercepting",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/mean-streak-intercepting.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb9b",
+            "name": "Mean-Streak, Looking for Trouble",
+            "slug": "mean-streak-looking-for-trouble",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/mean-streak-looking-for-trouble.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb9c",
+            "name": "Mean-Streak, Newfound Powers",
+            "slug": "mean-streak-newfound-powers",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/mean-streak-newfound-powers.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb9d",
+            "name": "Mean-Streak, Ready to Brawl",
+            "slug": "mean-streak-ready-to-brawl",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/mean-streak-ready-to-brawl.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e10",
+                "name": "Contender"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb9e",
+            "name": "Mean-Streak, Unique Speedster",
+            "slug": "mean-streak-unique-speedster",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/mean-streak-unique-speedster.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddb9f",
+            "name": "Menacing Magnate",
+            "slug": "menacing-magnate",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/menacing-magnate.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba0",
+            "name": "Metal Barrage",
+            "slug": "metal-barrage",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/metal-barrage.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba1",
+            "name": "Missile Barrage",
+            "slug": "missile-barrage",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/missile-barrage.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba2",
+            "name": "Morac, on the Hunt",
+            "slug": "morac-on-the-hunt",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/morac-on-the-hunt.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7866",
+                "name": "Discarded",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Discarded%203.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba3",
+            "name": "Morale Boost",
+            "slug": "morale-boost",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/morale-boost.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554e",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba4",
+            "name": "Moxie",
+            "slug": "moxie",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxie.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba5",
+            "name": "Moxie's Heavy Power Armor",
+            "slug": "moxies-heavy-power-armor",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxies-heavy-power-armor.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554d",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1c",
+                "name": "Epic"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba6",
+            "name": "Moxie's Light Power Armor",
+            "slug": "moxies-light-power-armor",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxies-light-power-armor.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554d",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba7",
+            "name": "Moxie's Sidearm",
+            "slug": "moxies-sidearm",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxies-sidearm.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554d",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba8",
+            "name": "Moxie, Alpha Hunting Specialist",
+            "slug": "moxie-alpha-hunting-specialist",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxie-alpha-hunting-specialist.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddba9",
+            "name": "Moxie, Fully Loaded",
+            "slug": "moxie-fully-loaded",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxie-fully-loaded.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1c",
+                "name": "Epic"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbaa",
+            "name": "Moxie, Preparing for Battle",
+            "slug": "moxie-preparing-for-battle",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxie-preparing-for-battle.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbab",
+            "name": "Moxie, Primed to Clash",
+            "slug": "moxie-primed-to-clash",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxie-primed-to-clash.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbac",
+            "name": "Moxie, Ready to Hunt",
+            "slug": "moxie-ready-to-hunt",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/moxie-ready-to-hunt.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e10",
+                "name": "Contender"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef20",
+                "name": "Starter Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbad",
+            "name": "New York City",
+            "slug": "new-york-city",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/new-york-city.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0e",
+                "name": "Clashground"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbae",
+            "name": "Piercing Strike",
+            "slug": "piercing-strike",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/piercing-strike.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554c",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbaf",
+            "name": "Plasmax",
+            "slug": "plasmax",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/plasmax.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb0",
+            "name": "Power Overflowing",
+            "slug": "power-overflowing",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/power-overflowing.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554e",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb1",
+            "name": "Rizlac, the Depraved",
+            "slug": "rizlac-the-depraved",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/rizlac-the-depraved.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7866",
+                "name": "Discarded",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Discarded%203.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1c",
+                "name": "Epic"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb2",
+            "name": "San Francisco",
+            "slug": "san-francisco",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/san-francisco.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0e",
+                "name": "Clashground"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb3",
+            "name": "Sergeant Webber",
+            "slug": "sergeant-webber",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/sergeant-webber.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb4",
+            "name": "Shadowlight",
+            "slug": "shadowlight",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/shadowlight.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb5",
+            "name": "Shadowlight's Light Beam",
+            "slug": "shadowlights-light-beam",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/shadowlights-light-beam.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554c",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb6",
+            "name": "Sharpshooter Moxie",
+            "slug": "sharpshooter-moxie",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/sharpshooter-moxie.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb7",
+            "name": "Shugaboo & Haven",
+            "slug": "shugaboo-and-haven",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/shugaboo-and-haven.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb8",
+            "name": "Sinister Assistance",
+            "slug": "sinister-assistance",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/sinister-assistance.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbb9",
+            "name": "Sinister San Francisco",
+            "slug": "sinister-san-francisco",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/sinister-san-francisco.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0e",
+                "name": "Clashground"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbba",
+            "name": "Solar Flare",
+            "slug": "solar-flare",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/solar-flare.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbbb",
+            "name": "Solar Smash",
+            "slug": "solar-smash",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/solar-smash.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbbc",
+            "name": "Sonoro",
+            "slug": "sonoro",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/sonoro.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbbd",
+            "name": "Sonoro, the Awakened Breaker",
+            "slug": "sonoro-the-awakened-breaker",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/sonoro-the-awakened-breaker.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbbe",
+            "name": "Sonoro, the Fierce Fighter",
+            "slug": "sonoro-the-fierce-fighter",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/sonoro-the-fierce-fighter.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbbf",
+            "name": "Spiritual Defense",
+            "slug": "spiritual-defense",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/spiritual-defense.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc0",
+            "name": "Streak-Absorbing Blow",
+            "slug": "streak-absorbing-blow",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/streak-absorbing-blow.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc1",
+            "name": "Streaks Inbound",
+            "slug": "streaks-inbound",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/streaks-inbound.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554e",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc2",
+            "name": "Streaks, Assemble!",
+            "slug": "streaks-assemble",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/streaks-assemble.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc3",
+            "name": "Streaks, Engage",
+            "slug": "streaks-engage",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/streaks-engage.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc4",
+            "name": "Surprise!",
+            "slug": "surprise",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/surprise.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554c",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc5",
+            "name": "T-Bone's Shockwave",
+            "slug": "t-bones-shockwave",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/t-bones-shockwave.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554b",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc6",
+            "name": "T-Bone, Powers Unlocked",
+            "slug": "t-bone-powers-unlocked",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/t-bone-powers-unlocked.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc7",
+            "name": "T-Bone, the Vindictive",
+            "slug": "t-bone-the-vindictive",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/t-bone-the-vindictive.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc8",
+            "name": "Terrance “T-Bone“ Bonnard",
+            "slug": "terrance-t-bone-bonnard",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/terrance-t-bone-bonnard.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7863",
+                "name": "Blue",
+                "hexColor": "#4383c3",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-blue.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbc9",
+            "name": "The Avenging Guy",
+            "slug": "the-avenging-guy",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/the-avenging-guy.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7868",
+                "name": "Rogue",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Rogue.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7861",
+                "name": "Green",
+                "hexColor": "#44af6b",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-green.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbca",
+            "name": "Torque",
+            "slug": "torque",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/torque.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbcb",
+            "name": "Torque, Energy Overflowing",
+            "slug": "torque-energy-overflowing",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/torque-energy-overflowing.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbcc",
+            "name": "Torque, Expelling Energy",
+            "slug": "torque-expelling-energy",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/torque-expelling-energy.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbcd",
+            "name": "Torque, Raging Force",
+            "slug": "torque-raging-force",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/torque-raging-force.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbce",
+            "name": "Torque, Redirecting Damage",
+            "slug": "torque-redirecting-damage",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/torque-redirecting-damage.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbcf",
+            "name": "Torque, the Diabolical",
+            "slug": "torque-the-diabolical",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/torque-the-diabolical.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e10",
+                "name": "Contender"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbd0",
+            "name": "Torque, the Uncontrollable",
+            "slug": "torque-the-uncontrollable",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/torque-the-uncontrollable.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7860",
+                "name": "Red",
+                "hexColor": "#ef4c2e",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-red.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1c",
+                "name": "Epic"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbd1",
+            "name": "United Nations Headquarters",
+            "slug": "united-nations-headquarters",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/united-nations-headquarters.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0e",
+                "name": "Clashground"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbd2",
+            "name": "Warcry, Prideful Warrior",
+            "slug": "warcry-prideful-warrior",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/warcry-prideful-warrior.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbd3",
+            "name": "Warcry, Sign of Hope",
+            "slug": "warcry-sign-of-hope",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/warcry-sign-of-hope.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7864",
+                "name": "Alpha",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f7862",
+                "name": "White",
+                "hexColor": "#fefefd",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-white.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1f",
+                "name": "Rare"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbd4",
+            "name": "Webber's Assistance",
+            "slug": "webbers-assistance",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/webbers-assistance.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e11",
+                "name": "Action"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554a",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbd5",
+            "name": "Webber's Binoculars",
+            "slug": "webbers-binoculars",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/webbers-binoculars.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0d",
+                "name": "Accessory"
+            },
+            "affiliation": {
+                "_id": "",
+                "name": "",
+                "affImageUrl": ""
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": "645a81b67833a875376e554d",
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef1b",
+                "name": "Common"
+            }
+        },
+        {
+            "id": "645f0a7fac90f2728d8ddbd6",
+            "name": "Webber, Weapons Expert",
+            "slug": "webber-weapons-expert",
+            "imageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/cards/small/webber-weapons-expert.webp",
+            "cardType": {
+                "_id": "645a812119cb894b1aac5e0f",
+                "name": "Clash"
+            },
+            "affiliation": {
+                "_id": "645a893b7538c9022b8f7865",
+                "name": "Alpha Hunter",
+                "affImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/affiliation_icons/Alpha%20Hunters.webp"
+            },
+            "color": {
+                "_id": "645a825d7538c9022b8f785f",
+                "name": "Black",
+                "hexColor": "#676767",
+                "specifiedCostImageUrl": "https://storage.googleapis.com/cardeio-images/alpha-clash/color_icons/sc-black.png"
+            },
+            "cardSubtype": null,
+            "rarity": {
+                "_id": "64a85f53d6910d42b4c2ef21",
+                "name": "Uncommon"
+            }
+        }
+    ]
+}
